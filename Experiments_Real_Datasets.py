@@ -134,7 +134,7 @@ datasets_details = {
 
 }
 
-base_path = "C:/Users/dell/OneDrive - The Hong Kong Polytechnic University/Desktop/MAJOR/Real world/Datasets/"
+base_path = os.getenv('DATASET_BASE_PATH', './Datasets/')
 datasets = {}
 
 diabetes_data = load_diabetes()
