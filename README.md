@@ -18,10 +18,15 @@ To set up the project, follow these steps:
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-3. Install the required packages:
-   ```sh
-   pip install -r requirements.txt
+3.	Install the required libraries:
+   
+      Ensure you have the following dependencies installed in your environment:
 
+    - Python: 3.6 and above
+    - Scikit-learn: 1.6.0
+    - NumPy: 2.2.0
+    - Pandas: 2.2.3
+    
 ## Usage
 1. To run the experiments for real-world datasets, use the following command:
    ```sh
