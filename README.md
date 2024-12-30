@@ -27,7 +27,7 @@ To set up the project, follow these steps:
    ```sh
    python Experiments_Real_Datasets.py
 
-2. To run the experiments for synthetic dataset, use the following command:
+2. To run the experiments for synthetic datasets, use the following command:
    ```sh
    python Experiments_Synthetic.py
 
