@@ -22,7 +22,7 @@ To set up the project, follow these steps:
    
       Ensure you have the following dependencies installed in your environment:
 
-    - Python: 3.6 and above
+    - Python: 3.11 and above
     - Scikit-learn: 1.6.0
     - NumPy: 2.2.0
     - Pandas: 2.2.3
